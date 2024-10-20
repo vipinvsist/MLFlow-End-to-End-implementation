@@ -1,4 +1,4 @@
-from src.mlflowProject import logger
+from mlflowProject import logger
 
 
 logger.info("Welcome to our custom logging")
