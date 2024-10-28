@@ -6,7 +6,7 @@ This is to assure the resusability of code.
 import os
 from box.exceptions import BoxValueError
 import yaml
-from mlflowProject import logger
+from src.mlflowProject import logger
 import json
 import joblib
 from ensure import ensure_annotations
@@ -30,7 +30,7 @@ def read_yaml(path: Path) -> ConfigBox:
     """
     try:
         with open(path) as f:
-            content = json.load(f)
+            content = yaml.safe_load(f)
 
         logger.info(f"json file loaded sucessfully from: {path}")
         
