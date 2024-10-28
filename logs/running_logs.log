@@ -9,3 +9,35 @@
 [2024-10-28 09:09:25,015: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
 [2024-10-28 09:09:25,017: INFO: common: created directory at artifacts]
 [2024-10-28 09:09:25,020: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 22:51:27,975: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 22:51:27,981: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 22:51:27,984: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 22:51:27,988: INFO: common: created directory at artifacts]
+[2024-10-28 22:51:27,991: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 22:51:29,454: INFO: 1433702343: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 199981
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "6139955f7eee759c027db7c6f7c13fd28b2657fbc90d6ed28074cdd76dbb23f2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: DE43:2C5834:3A36D4:491714:671FC818
+Accept-Ranges: bytes
+Date: Mon, 28 Oct 2024 17:21:29 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100035-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1730136089.868366,VS0,VE392
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f51cda6d65f55500d4a8ba00d54840bc113acc75
+Expires: Mon, 28 Oct 2024 17:26:29 GMT
+Source-Age: 0
+
+]
