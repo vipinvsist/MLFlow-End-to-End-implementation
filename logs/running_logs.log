@@ -41,3 +41,210 @@ Expires: Mon, 28 Oct 2024 17:26:29 GMT
 Source-Age: 0
 
 ]
+[2024-10-28 23:38:01,944: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-10-28 23:38:02,222: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 23:38:02,237: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 23:38:02,242: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 23:38:02,246: INFO: common: created directory at artifacts]
+[2024-10-28 23:38:02,250: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 23:38:02,961: ERROR: main: HTTP Error 404: Not Found]
+Traceback (most recent call last):
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\main.py", line 11, in <module>
+    obj.main()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\components\data_ingestion.py", line 15, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 241, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+                            ^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+[2024-10-28 23:42:07,992: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-10-28 23:42:07,994: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 23:42:07,997: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 23:42:07,998: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 23:42:07,999: INFO: common: created directory at artifacts]
+[2024-10-28 23:42:07,999: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 23:42:08,724: ERROR: main: HTTP Error 404: Not Found]
+Traceback (most recent call last):
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\main.py", line 11, in <module>
+    obj.main()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\components\data_ingestion.py", line 15, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 241, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+                            ^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\urllib\request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+[2024-10-28 23:43:56,820: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-10-28 23:43:56,824: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 23:43:56,826: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 23:43:56,828: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 23:43:56,830: INFO: common: created directory at artifacts]
+[2024-10-28 23:43:56,832: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 23:43:56,832: INFO: data_ingestion: Attempting to download from https://github.com/vipinvsist/MLFlow-End-to-End-implementation/raw/refs/heads/main/data/train_data.zip]
+[2024-10-28 23:43:57,573: ERROR: data_ingestion: Failed to download file from https://github.com/vipinvsist/MLFlow-End-to-End-implementation/raw/refs/heads/main/data/train_data.zip: HTTP Error 404: Not Found]
+[2024-10-28 23:43:57,576: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\main.py", line 11, in <module>
+    obj.main()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.extract_zip_file()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\components\data_ingestion.py", line 51, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file,"r") as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\zipfile.py", line 1294, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2024-10-28 23:44:21,387: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-10-28 23:44:21,391: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 23:44:21,393: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 23:44:21,395: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 23:44:21,397: INFO: common: created directory at artifacts]
+[2024-10-28 23:44:21,399: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 23:44:21,400: INFO: data_ingestion: Attempting to download from https://github.com/vipinvsist/MLFlow-End-to-End-implementation/raw/refs/heads/main/data/train_data.zip]
+[2024-10-28 23:44:21,739: ERROR: data_ingestion: Failed to download file from https://github.com/vipinvsist/MLFlow-End-to-End-implementation/raw/refs/heads/main/data/train_data.zip: HTTP Error 404: Not Found]
+[2024-10-28 23:44:21,750: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\main.py", line 11, in <module>
+    obj.main()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.extract_zip_file()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\components\data_ingestion.py", line 51, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file,"r") as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\zipfile.py", line 1294, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2024-10-28 23:44:57,497: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 23:44:57,503: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 23:44:57,508: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 23:44:57,511: INFO: common: created directory at artifacts]
+[2024-10-28 23:44:57,515: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 23:45:07,655: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 23:45:07,659: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 23:45:07,663: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 23:45:07,666: INFO: common: created directory at artifacts]
+[2024-10-28 23:45:07,671: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 23:45:23,652: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 23:45:23,656: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 23:45:23,661: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 23:45:23,663: INFO: common: created directory at artifacts]
+[2024-10-28 23:45:23,668: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 23:50:15,326: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-10-28 23:50:15,347: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 23:50:15,349: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 23:50:15,351: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 23:50:15,352: INFO: common: created directory at artifacts]
+[2024-10-28 23:50:15,353: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 23:50:16,346: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Server: GitHub.com
+Date: Mon, 28 Oct 2024 18:20:16 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"c8088f5c9203470123e38d4dbc4339e5"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ github.com/webpack/ github.com/assets/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com *.rel.tunnels.api.visualstudio.com wss://*.rel.tunnels.api.visualstudio.com objects-origin.githubusercontent.com copilot-proxy.githubusercontent.com proxy.individual.githubcopilot.com proxy.business.githubcopilot.com proxy.enterprise.githubcopilot.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ productionresultssa10.blob.core.windows.net/ productionresultssa11.blob.core.windows.net/ productionresultssa12.blob.core.windows.net/ productionresultssa13.blob.core.windows.net/ productionresultssa14.blob.core.windows.net/ productionresultssa15.blob.core.windows.net/ productionresultssa16.blob.core.windows.net/ productionresultssa17.blob.core.windows.net/ productionresultssa18.blob.core.windows.net/ productionresultssa19.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com api.githubcopilot.com api.individual.githubcopilot.com api.business.githubcopilot.com api.enterprise.githubcopilot.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com copilot-workspace.githubnext.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: blob: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com private-avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ github.com/webpack/ github.com/assets/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=LbrZm3EIDWIRy52BcFFwDcHH8%2B2vk0eU9EyeFeHX6GXABhm%2F1XTUN4LdefHSWIOLxrDAO4XSXA830tUrjBZ%2FJ%2FNinOTgAfUmzBnmTdPypEt%2FVpxMvVw7i4em711t9JWZZfWJ9zhSARiDCleoCl8HgGoeNTD5I72efyOEJGiT%2BwxyHpnJMwyebdF4SsJriQB%2FuTvygfdN1KbLgzbXgOMc70UD0%2B2esXTMRDmYLICjyzp%2FfAqAM3lkWjrti0cIFjuHQ8Y2Tn4PuWQiFRlbUxBOPA%3D%3D--qQXBk3rrtMhn9iYp--OMmym%2Ft58F5frhuigdW9cg%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.305088556.1730139615; Path=/; Domain=github.com; Expires=Tue, 28 Oct 2025 18:20:15 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Tue, 28 Oct 2025 18:20:15 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: 813A:2B2874:2227491:26500FA:671FD5DF
+connection: close
+
+]
+[2024-10-28 23:50:16,543: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\main.py", line 11, in <module>
+    obj.main()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.extract_zip_file()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\components\data_ingestion.py", line 51, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file,"r") as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python3.11.9\Lib\zipfile.py", line 1312, in __init__
+    self._RealGetContents()
+  File "C:\Python3.11.9\Lib\zipfile.py", line 1379, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-10-28 23:51:22,609: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-10-28 23:51:22,614: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-10-28 23:51:22,617: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-10-28 23:51:22,619: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-10-28 23:51:22,622: INFO: common: created directory at artifacts]
+[2024-10-28 23:51:22,628: INFO: common: created directory at artifacts/data_ingestion]
+[2024-10-28 23:51:24,253: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 199981
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "6139955f7eee759c027db7c6f7c13fd28b2657fbc90d6ed28074cdd76dbb23f2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: DE43:2C5834:3A36D4:491714:671FC818
+Accept-Ranges: bytes
+Date: Mon, 28 Oct 2024 18:21:23 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100031-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1730139684.623399,VS0,VE293
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4785dafb01b2cdc06d194bf42db42130a31c66f2
+Expires: Mon, 28 Oct 2024 18:26:23 GMT
+Source-Age: 0
+
+]
+[2024-10-28 23:51:24,307: INFO: main: >>>>>>>> stage Data Ingestion stage COMPLETED <<<<<<<< 
+ 
+x========x]
