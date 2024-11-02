@@ -7,11 +7,13 @@ src/mflowlProject.egg-info/dependency_links.txt
 src/mflowlProject.egg-info/top_level.txt
 src/mlflowProject/__init__.py
 src/mlflowProject/components/__init__.py
+src/mlflowProject/components/data_ingestion.py
 src/mlflowProject/config/__init__.py
 src/mlflowProject/config/configuration.py
 src/mlflowProject/constants/__init__.py
 src/mlflowProject/entity/__init__.py
 src/mlflowProject/entity/config_entity.py
 src/mlflowProject/pipeline/__init__.py
+src/mlflowProject/pipeline/stage_01_data_ingestion.py
 src/mlflowProject/utils/__init__.py
 src/mlflowProject/utils/common.py

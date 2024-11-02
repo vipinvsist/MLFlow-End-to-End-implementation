@@ -1,1 +1,11 @@
-key : val
+COLUMNS:
+  Weight: float64
+  FatContent: object
+  ProductVisibility: float64
+  ProductType: object
+  MRP: float64
+  EstablishmentYear: int64
+  OutletSize: object
+  LocationType: object
+  OutletType: object
+  OutletSales: float64 

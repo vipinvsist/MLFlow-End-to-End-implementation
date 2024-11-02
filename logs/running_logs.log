@@ -284,3 +284,93 @@ Source-Age: 0
 [2024-10-28 23:58:06,113: INFO: main: >>>>>>>> stage Data Ingestion stage COMPLETED <<<<<<<< 
  
 x========x]
+[2024-11-03 00:32:47,107: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-11-03 00:32:47,117: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-03 00:32:47,119: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-03 00:32:47,123: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-03 00:32:47,125: INFO: common: created directory at artifacts]
+[2024-11-03 00:32:47,127: INFO: common: created directory at artifacts/data_ingestion]
+[2024-11-03 00:32:48,511: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 199981
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "6139955f7eee759c027db7c6f7c13fd28b2657fbc90d6ed28074cdd76dbb23f2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8740:23095F:170999:1E0A28:67267757
+Accept-Ranges: bytes
+Date: Sat, 02 Nov 2024 19:02:48 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100022-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1730574168.936951,VS0,VE310
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 07476c87cf054e97b94d63f7608edec89936b266
+Expires: Sat, 02 Nov 2024 19:07:48 GMT
+Source-Age: 0
+
+]
+[2024-11-03 00:32:48,570: INFO: main: >>>>>>>> stage Data Ingestion stage COMPLETED <<<<<<<< 
+ 
+x========x]
+[2024-11-03 00:32:48,572: INFO: main: >>>>>>>> stage Data Validation Stage started <<<<<<<<]
+[2024-11-03 00:32:48,575: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-03 00:32:48,577: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-03 00:32:48,581: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-03 00:32:48,582: INFO: common: created directory at artifacts]
+[2024-11-03 00:32:48,584: INFO: common: created directory at artifacts/data_validation]
+[2024-11-03 00:32:48,669: INFO: main: >>>>>>>> stage Data Validation Stage  completed <<<<<<<<
+ 
+x=======]
+[2024-11-03 00:36:23,773: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-11-03 00:36:23,777: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-03 00:36:23,779: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-03 00:36:23,781: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-03 00:36:23,782: INFO: common: created directory at artifacts]
+[2024-11-03 00:36:23,784: INFO: common: created directory at artifacts/data_ingestion]
+[2024-11-03 00:36:25,138: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 199981
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "6139955f7eee759c027db7c6f7c13fd28b2657fbc90d6ed28074cdd76dbb23f2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8740:23095F:170999:1E0A28:67267757
+Accept-Ranges: bytes
+Date: Sat, 02 Nov 2024 19:06:24 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100027-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1730574385.508609,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4882c91e404b3cb821080c36a46542d62e044b0b
+Expires: Sat, 02 Nov 2024 19:11:24 GMT
+Source-Age: 216
+
+]
+[2024-11-03 00:36:25,179: INFO: main: >>>>>>>> stage Data Ingestion stage COMPLETED <<<<<<<< 
+ 
+x========x]
+[2024-11-03 00:36:25,182: INFO: main: >>>>>>>> stage Data Validation Stage started <<<<<<<<]
+[2024-11-03 00:36:25,186: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-03 00:36:25,189: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-03 00:36:25,193: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-03 00:36:25,194: INFO: common: created directory at artifacts]
+[2024-11-03 00:36:25,196: INFO: common: created directory at artifacts/data_validation]
+[2024-11-03 00:36:25,296: INFO: main: >>>>>>>> stage Data Validation Stage  completed <<<<<<<<
+ 
+x=======]
