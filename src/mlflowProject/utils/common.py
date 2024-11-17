@@ -6,7 +6,7 @@ This is to assure the resusability of code.
 import os
 from box.exceptions import BoxValueError
 import yaml
-from src.mlflowProject import logger
+from mlflowProject import logger
 import json
 import joblib
 from ensure import ensure_annotations
