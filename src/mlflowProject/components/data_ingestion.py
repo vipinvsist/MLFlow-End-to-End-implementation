@@ -1,10 +1,10 @@
 import os
 import urllib.request as request
 from pathlib import Path
-from src.mlflowProject.entity.config_entity import (DataIngestionConfig)
+from mlflowProject.entity.config_entity import (DataIngestionConfig)
 import zipfile
-from src.mlflowProject import logger
-from src.mlflowProject.utils.common import get_size
+from mlflowProject import logger
+from mlflowProject.utils.common import get_size
 import urllib.error
 
 class DataIngestion :
@@ -22,23 +22,6 @@ class DataIngestion :
 
         else:
             logger.info(f"File already exist of size: {get_size(self.config.local_data_file)}")
-
-    # def download_file(self):
-    #     if not os.path.exists(self.config.local_data_file):
-    #         logger.info(f"Attempting to download from {self.config.source_URL}")
-    #         try:
-    #             filename, headers = request.urlretrieve(
-    #                 url=self.config.source_URL,
-    #                 filename=self.config.local_data_file
-    #             )
-    #             logger.info(f"{filename} downloaded! with the following info: \n{headers}")
-    #         except urllib.error.HTTPError as e:
-    #             logger.error(f"Failed to download file from {self.config.source_URL}: {e}")
-    #         except Exception as e:
-    #             logger.error(f"An error occurred: {e}")
-    #     else:
-    #         logger.info(f"File already exists of size: {get_size(self.config.local_data_file)}")
-
     
     def extract_zip_file(self):
         """

@@ -8,4 +8,6 @@ COLUMNS:
   OutletSize: object
   LocationType: object
   OutletType: object
-  OutletSales: float64 
+  
+TARGET_COLUMN:
+    OutletSales: float64 

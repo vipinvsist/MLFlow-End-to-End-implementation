@@ -1851,3 +1851,411 @@ x=======]
 [2024-11-17 13:48:59,440: INFO: main: >>>>>>>> stage Data Transformation stage  completed <<<<<<<<
  
 x=======]
+[2024-11-17 16:41:04,304: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-17 16:41:04,306: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-17 16:41:04,309: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-17 16:41:04,311: INFO: common: created directory at artifacts]
+[2024-11-17 16:41:04,312: INFO: common: created directory at artifacts\data_transformation]
+[2024-11-17 16:41:04,331: INFO: 111424077: ['FD' 'DR' 'NC']]
+[2024-11-17 16:41:04,333: INFO: 111424077: ['lf' 'reg']]
+[2024-11-17 16:41:04,343: INFO: 111424077: (8523, 12)]
+[2024-11-17 16:41:04,395: INFO: 111424077: Splited data into training and test sets]
+[2024-11-17 16:41:04,396: INFO: 111424077: (6818, 12)]
+[2024-11-17 16:41:04,397: INFO: 111424077: (1705, 12)]
+[2024-11-18 09:37:07,264: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-18 09:37:07,295: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-18 09:37:07,322: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-18 09:37:07,326: INFO: common: created directory at artifacts]
+[2024-11-18 09:37:07,329: INFO: common: created directory at artifacts\data_transformation]
+[2024-11-18 09:37:07,378: INFO: 111424077: ['FD' 'DR' 'NC']]
+[2024-11-18 09:37:07,381: INFO: 111424077: ['lf' 'reg']]
+[2024-11-18 09:37:07,402: INFO: 111424077: (8523, 12)]
+[2024-11-18 09:37:07,515: INFO: 111424077: Splited data into training and test sets]
+[2024-11-18 09:37:07,517: INFO: 111424077: (6818, 12)]
+[2024-11-18 09:37:07,519: INFO: 111424077: (1705, 12)]
+[2024-11-19 08:22:49,383: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:22:49,416: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:22:49,443: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:22:49,449: INFO: common: created directory at artifacts]
+[2024-11-19 08:24:19,210: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:24:19,214: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:24:19,220: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:24:19,224: INFO: common: created directory at artifacts]
+[2024-11-19 08:24:23,864: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:24:23,868: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:24:23,873: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:24:23,877: INFO: common: created directory at artifacts]
+[2024-11-19 08:25:29,304: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:25:29,309: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:25:29,315: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:25:29,318: INFO: common: created directory at artifacts]
+[2024-11-19 08:25:33,259: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:25:33,263: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:25:33,269: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:25:33,272: INFO: common: created directory at artifacts]
+[2024-11-19 08:26:09,998: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:26:10,002: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:26:10,025: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:26:10,029: INFO: common: created directory at artifacts]
+[2024-11-19 08:26:10,032: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:26:31,559: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:26:31,563: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:26:31,569: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:26:31,574: INFO: common: created directory at artifacts]
+[2024-11-19 08:26:31,580: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:27:19,659: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:27:19,663: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:27:19,668: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:27:19,672: INFO: common: created directory at artifacts]
+[2024-11-19 08:27:19,675: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:29:16,562: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-11-19 08:29:16,568: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:29:16,568: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:29:16,572: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:29:16,572: INFO: common: created directory at artifacts]
+[2024-11-19 08:29:16,573: INFO: common: created directory at artifacts/data_ingestion]
+[2024-11-19 08:29:16,575: ERROR: main: Argument path of type <class 'str'> to <function get_size at 0x00000163799BC040> does not match annotation type <class 'pathlib.Path'>]
+Traceback (most recent call last):
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\main.py", line 11, in <module>
+    obj.main()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\components\data_ingestion.py", line 24, in download_file
+    logger.info(f"File already exist of size: {get_size(self.config.local_data_file)}")
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ML_Projects\MLflow_Implementation\mlflow_implementation_project_env\Lib\site-packages\ensure\main.py", line 845, in __call__
+    raise EnsureError(msg.format(
+ensure.main.EnsureError: Argument path of type <class 'str'> to <function get_size at 0x00000163799BC040> does not match annotation type <class 'pathlib.Path'>
+[2024-11-19 08:30:26,493: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:30:26,497: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:30:26,502: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:30:26,505: INFO: common: created directory at artifacts]
+[2024-11-19 08:30:26,507: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:30:59,281: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:30:59,285: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:30:59,291: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:30:59,293: INFO: common: created directory at artifacts]
+[2024-11-19 08:30:59,296: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:34:43,192: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:34:43,196: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:34:43,202: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:34:43,205: INFO: common: created directory at artifacts]
+[2024-11-19 08:34:43,208: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:36:54,685: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:36:54,688: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:36:54,693: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:36:54,696: INFO: common: created directory at artifacts]
+[2024-11-19 08:36:54,699: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:37:19,879: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:37:19,885: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:37:19,891: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:37:19,894: INFO: common: created directory at artifacts]
+[2024-11-19 08:37:19,897: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:37:57,808: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:37:57,813: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:37:57,818: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:37:57,822: INFO: common: created directory at artifacts]
+[2024-11-19 08:37:57,826: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:40:43,749: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:40:43,753: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:40:43,760: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:40:43,764: INFO: common: created directory at artifacts]
+[2024-11-19 08:40:43,767: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:40:55,771: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:40:55,776: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:40:55,781: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:40:55,787: INFO: common: created directory at artifacts]
+[2024-11-19 08:40:55,795: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:40:57,622: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:40:57,626: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:40:57,633: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:40:57,636: INFO: common: created directory at artifacts]
+[2024-11-19 08:40:57,640: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:42:40,777: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:42:40,781: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:42:40,787: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:42:40,791: INFO: common: created directory at artifacts]
+[2024-11-19 08:42:40,796: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:42:59,497: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:42:59,501: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:42:59,507: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:42:59,510: INFO: common: created directory at artifacts]
+[2024-11-19 08:42:59,513: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:43:13,179: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:43:13,184: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:43:13,188: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:43:13,192: INFO: common: created directory at artifacts]
+[2024-11-19 08:43:13,194: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:44:36,296: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:44:36,301: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:44:36,308: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:44:36,311: INFO: common: created directory at artifacts]
+[2024-11-19 08:44:36,314: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:45:05,268: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:45:05,274: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:45:05,279: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:45:05,283: INFO: common: created directory at artifacts]
+[2024-11-19 08:45:05,287: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:45:08,417: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:45:08,422: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:45:08,428: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:45:08,430: INFO: common: created directory at artifacts]
+[2024-11-19 08:45:08,433: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 08:46:33,013: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 08:46:33,018: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 08:46:33,024: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 08:46:33,028: INFO: common: created directory at artifacts]
+[2024-11-19 08:46:33,033: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:21:52,202: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:21:52,206: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:21:52,210: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:21:52,213: INFO: common: created directory at artifacts]
+[2024-11-19 09:21:52,215: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:23:02,649: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:23:02,652: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:23:02,654: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:23:02,656: INFO: common: created directory at artifacts]
+[2024-11-19 09:23:02,657: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:28:54,624: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:28:54,632: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:28:54,642: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:28:54,643: INFO: common: created directory at artifacts]
+[2024-11-19 09:28:54,644: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:30:30,554: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:30:30,563: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:30:30,566: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:30:30,568: INFO: common: created directory at artifacts]
+[2024-11-19 09:30:30,569: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:30:58,571: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:30:58,572: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:30:58,576: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:30:58,579: INFO: common: created directory at artifacts]
+[2024-11-19 09:30:58,581: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:32:49,384: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:32:49,386: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:32:49,389: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:32:49,391: INFO: common: created directory at artifacts]
+[2024-11-19 09:32:49,394: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:38:52,835: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:38:52,840: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:38:52,843: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:38:52,845: INFO: common: created directory at artifacts]
+[2024-11-19 09:38:52,849: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:38:56,231: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:38:56,233: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:38:56,236: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:38:56,238: INFO: common: created directory at artifacts]
+[2024-11-19 09:38:56,240: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:38:57,565: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:38:57,568: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:38:57,570: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:38:57,572: INFO: common: created directory at artifacts]
+[2024-11-19 09:38:57,573: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:38:59,908: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:38:59,911: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:38:59,913: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:38:59,914: INFO: common: created directory at artifacts]
+[2024-11-19 09:38:59,917: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:39:03,297: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:39:03,299: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:39:03,301: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:39:03,302: INFO: common: created directory at artifacts]
+[2024-11-19 09:39:03,304: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:40:45,769: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:40:45,772: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:40:45,774: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:40:45,775: INFO: common: created directory at artifacts]
+[2024-11-19 09:40:45,778: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:44:13,844: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:44:13,846: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:44:13,850: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:44:13,853: INFO: common: created directory at artifacts]
+[2024-11-19 09:44:13,855: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:44:39,915: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:44:39,918: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:44:39,921: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:44:39,923: INFO: common: created directory at artifacts]
+[2024-11-19 09:44:39,924: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:46:38,642: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:46:38,645: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:46:38,649: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:46:38,651: INFO: common: created directory at artifacts]
+[2024-11-19 09:46:38,653: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:46:54,063: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:46:54,066: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:46:54,068: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:46:54,070: INFO: common: created directory at artifacts]
+[2024-11-19 09:46:54,071: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:48:08,613: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:48:08,621: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:48:08,630: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:48:08,632: INFO: common: created directory at artifacts]
+[2024-11-19 09:48:08,633: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:48:33,722: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:48:33,724: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:48:33,728: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:48:33,729: INFO: common: created directory at artifacts]
+[2024-11-19 09:48:33,731: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:49:07,244: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:49:07,246: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:49:07,248: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:49:07,251: INFO: common: created directory at artifacts]
+[2024-11-19 09:49:07,252: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:53:09,007: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:53:09,009: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:53:09,012: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:53:09,014: INFO: common: created directory at artifacts]
+[2024-11-19 09:53:09,015: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:55:28,072: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:55:28,074: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:55:28,076: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:55:28,079: INFO: common: created directory at artifacts]
+[2024-11-19 09:55:28,082: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:56:10,637: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:56:10,639: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:56:10,642: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:56:10,643: INFO: common: created directory at artifacts]
+[2024-11-19 09:56:10,644: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-19 09:56:53,289: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-19 09:56:53,291: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-19 09:56:53,294: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-19 09:56:53,297: INFO: common: created directory at artifacts]
+[2024-11-19 09:56:53,299: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-20 09:00:07,848: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-11-20 09:00:07,858: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-20 09:00:07,866: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-20 09:00:07,877: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-20 09:00:07,878: INFO: common: created directory at artifacts]
+[2024-11-20 09:00:07,879: INFO: common: created directory at artifacts/data_ingestion]
+[2024-11-20 09:00:08,879: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 199981
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "6139955f7eee759c027db7c6f7c13fd28b2657fbc90d6ed28074cdd76dbb23f2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EC31:3E425D:77C2B:A19CB:673D57C3
+Accept-Ranges: bytes
+Date: Wed, 20 Nov 2024 03:30:13 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100027-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1732073413.825287,VS0,VE338
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 50fc4ab1f7994932813ac37209f5c381b514b46b
+Expires: Wed, 20 Nov 2024 03:35:13 GMT
+Source-Age: 0
+
+]
+[2024-11-20 09:00:08,905: INFO: main: >>>>>>>> stage Data Ingestion stage COMPLETED <<<<<<<< 
+ 
+x========x]
+[2024-11-20 09:00:08,905: INFO: main: >>>>>>>> stage Data Validation Stage started <<<<<<<<]
+[2024-11-20 09:00:08,908: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-20 09:00:08,909: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-20 09:00:08,912: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-20 09:00:08,913: INFO: common: created directory at artifacts]
+[2024-11-20 09:00:08,914: INFO: common: created directory at artifacts/data_validation]
+[2024-11-20 09:00:08,956: INFO: main: >>>>>>>> stage Data Validation Stage  completed <<<<<<<<
+ 
+x=======]
+[2024-11-20 09:00:08,957: INFO: main: >>>>>>>> stage Data Transformation stage started <<<<<<<<]
+[2024-11-20 09:00:08,960: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-20 09:00:08,962: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-20 09:00:08,963: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-20 09:00:08,964: INFO: common: created directory at artifacts]
+[2024-11-20 09:00:08,966: INFO: common: created directory at artifacts\data_transformation]
+[2024-11-20 09:00:08,993: INFO: data_transformation: ['FD' 'DR' 'NC']]
+[2024-11-20 09:00:08,994: INFO: data_transformation: ['lf' 'reg']]
+[2024-11-20 09:00:09,022: INFO: data_transformation: (8523, 12)]
+[2024-11-20 09:00:09,097: INFO: data_transformation: Splited data into training and test sets]
+[2024-11-20 09:00:09,097: INFO: data_transformation: (7670, 12)]
+[2024-11-20 09:00:09,098: INFO: data_transformation: (853, 12)]
+[2024-11-20 09:00:09,101: INFO: main: >>>>>>>> stage Data Transformation stage  completed <<<<<<<<
+ 
+x=======]
+[2024-11-20 09:00:09,102: INFO: main: >>>>>>>>>>>>> stage Model Trainer stage started <<<<<<<<<<<<<<<<]
+[2024-11-20 09:00:09,102: ERROR: main: ConfigurationManager.get_model_trainer_config() missing 1 required positional argument: 'self']
+Traceback (most recent call last):
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\main.py", line 46, in <module>
+    obj.main()
+  File "C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\src\mlflowProject\pipeline\stage_04_model_trainer.py", line 14, in main
+    model_trainer_config = config.get_model_trainer_config()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ConfigurationManager.get_model_trainer_config() missing 1 required positional argument: 'self'
+[2024-11-20 09:05:13,823: INFO: main: >>>>>>>> stage Data Ingestion stage started <<<<<<<<]
+[2024-11-20 09:05:13,828: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-20 09:05:13,829: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-20 09:05:13,831: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-20 09:05:13,832: INFO: common: created directory at artifacts]
+[2024-11-20 09:05:13,832: INFO: common: created directory at artifacts/data_ingestion]
+[2024-11-20 09:05:14,803: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 199981
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "6139955f7eee759c027db7c6f7c13fd28b2657fbc90d6ed28074cdd76dbb23f2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EC31:3E425D:77C2B:A19CB:673D57C3
+Accept-Ranges: bytes
+Date: Wed, 20 Nov 2024 03:35:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100025-HYD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1732073719.788356,VS0,VE287
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f0cf7129c2c22fd02a6900763576f2cfabac9e23
+Expires: Wed, 20 Nov 2024 03:40:19 GMT
+Source-Age: 0
+
+]
+[2024-11-20 09:05:14,827: INFO: main: >>>>>>>> stage Data Ingestion stage COMPLETED <<<<<<<< 
+ 
+x========x]
+[2024-11-20 09:05:14,828: INFO: main: >>>>>>>> stage Data Validation Stage started <<<<<<<<]
+[2024-11-20 09:05:14,830: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-20 09:05:14,832: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-20 09:05:14,834: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-20 09:05:14,835: INFO: common: created directory at artifacts]
+[2024-11-20 09:05:14,835: INFO: common: created directory at artifacts/data_validation]
+[2024-11-20 09:05:14,881: INFO: main: >>>>>>>> stage Data Validation Stage  completed <<<<<<<<
+ 
+x=======]
+[2024-11-20 09:05:14,881: INFO: main: >>>>>>>> stage Data Transformation stage started <<<<<<<<]
+[2024-11-20 09:05:14,884: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-20 09:05:14,885: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-20 09:05:14,886: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-20 09:05:14,887: INFO: common: created directory at artifacts]
+[2024-11-20 09:05:14,888: INFO: common: created directory at artifacts\data_transformation]
+[2024-11-20 09:05:14,917: INFO: data_transformation: ['FD' 'DR' 'NC']]
+[2024-11-20 09:05:14,918: INFO: data_transformation: ['lf' 'reg']]
+[2024-11-20 09:05:14,939: INFO: data_transformation: (8523, 12)]
+[2024-11-20 09:05:14,997: INFO: data_transformation: Splited data into training and test sets]
+[2024-11-20 09:05:14,997: INFO: data_transformation: (7670, 12)]
+[2024-11-20 09:05:14,998: INFO: data_transformation: (853, 12)]
+[2024-11-20 09:05:15,000: INFO: main: >>>>>>>> stage Data Transformation stage  completed <<<<<<<<
+ 
+x=======]
+[2024-11-20 09:05:15,000: INFO: main: >>>>>>>>>>>>> stage Model Trainer stage started <<<<<<<<<<<<<<<<]
+[2024-11-20 09:05:15,003: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\config\config.yaml]
+[2024-11-20 09:05:15,004: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\params.yaml]
+[2024-11-20 09:05:15,005: INFO: common: json file loaded sucessfully from: C:\ML_Projects\MLflow_Implementation\MLFlow-End-to-End-implementation\schema.yaml]
+[2024-11-20 09:05:15,006: INFO: common: created directory at artifacts]
+[2024-11-20 09:05:15,007: INFO: common: created directory at artifacts\model_trainer]
+[2024-11-20 09:05:15,076: INFO: main: >>>>>>>>>>>> stage Model Trainer stage completed <<<<<<<<<<<<<<<<
+ 
+x================x]
