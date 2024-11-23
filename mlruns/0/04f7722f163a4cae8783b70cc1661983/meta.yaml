@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ML_Projects/MLflow_Implementation/MLFlow-End-to-End-implementation/mlruns/0/04f7722f163a4cae8783b70cc1661983/artifacts
+end_time: 1732302106956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04f7722f163a4cae8783b70cc1661983
+run_name: burly-mare-987
+run_uuid: 04f7722f163a4cae8783b70cc1661983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732302106748
+status: 3
+tags: []
+user_id: Vipin Vashisth

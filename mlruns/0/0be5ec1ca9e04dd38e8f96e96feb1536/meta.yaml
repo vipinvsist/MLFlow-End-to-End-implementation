@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ML_Projects/MLflow_Implementation/MLFlow-End-to-End-implementation/mlruns/0/0be5ec1ca9e04dd38e8f96e96feb1536/artifacts
+end_time: 1732301060043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0be5ec1ca9e04dd38e8f96e96feb1536
+run_name: trusting-hen-634
+run_uuid: 0be5ec1ca9e04dd38e8f96e96feb1536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732301059927
+status: 4
+tags: []
+user_id: Vipin Vashisth

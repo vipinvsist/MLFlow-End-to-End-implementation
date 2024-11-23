@@ -20,7 +20,7 @@ class ModelTrainer:
         test_x = test_data.drop([self.config.target_column], axis=1)
         train_y = train_data[[self.config.target_column]]
         test_y = test_data[[self.config.target_column]]
-        train_x=pd.get_dummies(train_data)
+        train_x=pd.get_dummies(train_x)
         train_y=np.log(train_y)
 
         model1 = Lasso(alpha=self.config.alpha,random_state=42,max_iter=1000,tol=0.1)

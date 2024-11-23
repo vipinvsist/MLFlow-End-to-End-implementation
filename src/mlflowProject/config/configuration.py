@@ -1,6 +1,6 @@
 from mlflowProject.constants import *
 from mlflowProject.utils.common import read_yaml, create_directories
-from mlflowProject.entity.config_entity import (DataIngestionConfig, DataValidationConfig, DataTransformationConfig,ModelTrainerConfig)
+from mlflowProject.entity.config_entity import (DataIngestionConfig, DataValidationConfig, DataTransformationConfig,ModelTrainerConfig, ModeEvaluationConfig)
 
 
 class ConfigurationManager:
@@ -74,3 +74,24 @@ class ConfigurationManager:
         )
 
         return model_trainer_config
+    
+    def get_model_evaluation_config(self) -> ModeEvaluationConfig:
+        config = self.config.model_evaluation
+        params = self.params.Lasso
+        schema = self.schema.TARGET_COLUMN
+        print("-----------------",params)
+
+        create_directories([config.root_dir])
+        target_column = list(schema.keys())[0] if schema else "OutletSales"
+
+        model_evaluation_config = ModeEvaluationConfig(
+            root_dir=config.root_dir,
+            test_data_path = config.test_data_path,
+            model_path= config.model_path,
+            all_params=params,
+            metric_file_name= config.metric_file_name,
+            target_column= target_column,
+            mlflow_uri= "https://dagshub.com/vipinvsist/MLFlow-End-to-End-implementation.mlflow"
+
+            )
+        return model_evaluation_config
