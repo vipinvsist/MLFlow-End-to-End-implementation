@@ -1,5 +1,7 @@
 # MLFlow-End-to-End-implementation
+The main objective is to build a predictive model that can predict sales for Big Mart stores. To achieve this, we will use historical sales data, which contains information about past sales and other relevant attributes. By applying advanced data analysis and modeling techniques,we aim to identify patterns and trends in the data.
 
+Through thorough analysis, we will develop a strong and reliable model that can forecast future sales trends. This model will be capable of providing valuable insights into how sales might behave in the future, allowing Big Mart to make informed decisions regarding inventory management and sales strategies.
 
 ### `Workflows`
 1. Update config.yaml
@@ -60,14 +62,6 @@ open up you local host and port
 
 ### dagshub
 [dagshub](https://dagshub.com/)
-
-import dagshub
-dagshub.init(repo_owner='vipinvsist', repo_name='MLFlow-End-to-End-implementation', mlflow=True)
-
-import mlflow
-with mlflow.start_run():
-  mlflow.log_param('parameter name', 'value')
-  mlflow.log_metric('metric name', 1)
 
 Run this to export as env variables:
 
